@@ -1,0 +1,6 @@
+How to play?
+1. There are N groups of the same pictures in the page. Find all the same pictures within the specified time and 
+you will complete the breakthrough
+
+2. If two identical pictures are found successively, the picture will be completed; if two different pictures 
+are found successively, the picture will be automatically changed back to the default picture
